@@ -4,7 +4,7 @@
 I am a Computer Engineering graduate from Palestine Polytechnic University (PPU), passionate about backend development and problem-solving. I enjoy working with various technologies to build efficient and scalable solutions.  
 
 - 💻 Skilled in **EJS (Embedded JavaScript Templating), HTML, JavaScript, Python, and C++**  
-- 🔍 Currently exploring **backend development** and expanding my knowledge in **database management and API design**  
+- 🔍 Currently exploring **backend development** and expanding my knowledge in **database management**  
 - 📚 Always eager to **learn new technologies** and enhance my **problem-solving skills**  
 
 ---
