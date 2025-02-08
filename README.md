@@ -6,7 +6,6 @@ I am a Computer Engineering graduate from Palestine Polytechnic University (PPU)
 - 💻 Skilled in **EJS (Embedded JavaScript Templating), HTML, JavaScript, Python, and C++**  
 - 🔍 Currently exploring **backend development** and expanding my knowledge in **database management and API design**  
 - 📚 Always eager to **learn new technologies** and enhance my **problem-solving skills**  
-- 🎯 Open to **collaborations and job opportunities** in software development  
 
 ---
 
