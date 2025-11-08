@@ -1,30 +1,33 @@
-## Islam Alama  
+# Hi, I'm Islam Alama  
 
-## Software Engineer | Web Developer 
+## Software Engineer | Web Developer | Future QA Engineer  
 
 A passionate software engineer with a strong focus on backend and web development.  
 Skilled at building scalable, maintainable, and efficient applications.  
+Currently expanding my expertise toward **Quality Assurance (QA)** and software testing.  
 
 ---
 
 ### 🎯 About Me  
 - B.Sc. in **Computer Engineering** – *Palestine Polytechnic University (PPU)*  
 - Experienced in both frontend and backend development  
-- Focused on clean code and continuous learning  
+- Focused on clean code, performance, and continuous learning  
 
 ---
 
 ## 💻 Technical Skills  
 
 ### Frontend  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JavaScript%20(ES6)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript ES6"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ### Backend  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET"/>
@@ -32,13 +35,13 @@ Skilled at building scalable, maintainable, and efficient applications.
 </p>
 
 ### Databases  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ### Tools  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
