@@ -1,10 +1,9 @@
-# Hi, I'm Islam Alama  
+# I'm Islam Alama  
 
-## Software Engineer | Web Developer | Future QA Engineer  
+## Software Engineer | Web Developer   
 
 A passionate software engineer with a strong focus on backend and web development.  
 Skilled at building scalable, maintainable, and efficient applications.  
-Currently expanding my expertise toward **Quality Assurance (QA)** and software testing.  
 
 ---
 
